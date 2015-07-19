@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">his</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="result_text">Result of identification will appear soon...</string>
+    <string name="make_photo">Make photo</string>
+    <string name="app_description">This is a human identification system. 
+        \n\nPlease, make photo of a person.</string>
+
+</resources>
